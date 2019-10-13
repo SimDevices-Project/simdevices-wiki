@@ -1,0 +1,3 @@
+[submodule "simblog"]
+      path = simblog
+      url = git@github.com:iamapig120/simblog.git
