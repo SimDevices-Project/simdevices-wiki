@@ -6,4 +6,9 @@
 
 ### SimGETRO 产品介绍
 
-- [SimGETRO](simgetro/manual/intro-simgetro/)
+- [SimGETRO 简介](simgetro/manual/intro-simgetro/)
+- [随附配件说明](simgetro/manual/accessories-simgetro/)
+
+### 配置您的设备
+
+- [开箱SimGETRO](simgetro/manual/unbox-simgetro/)
