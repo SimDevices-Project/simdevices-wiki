@@ -28,4 +28,4 @@
 7. 将另一侧侧键使用相同方式安装完毕
 
 接下来，您可以参考以下章节将您的设备连接到计算机并进行首次配置。
-- [连接计算机](simgetro/manual/unbox-simgetro/)
+- [连接计算机](simgetro/manual/connect-to-pc/)
