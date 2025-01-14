@@ -14,3 +14,7 @@
 - [开箱SimGETRO](simgetro/configs/unbox-simgetro/)
 - [连接计算机](simgetro/configs/connect-to-pc/)
 - [更新固件](simgetro/configs/update-firmware/)
+
+### 连接到游戏
+
+- [连接到「オンゲキ」](simgetro/configs/game-ongeki/)
