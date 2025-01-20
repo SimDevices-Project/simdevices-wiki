@@ -11,7 +11,7 @@
 
 ### 配置您的设备
 
-- [开箱SimGETRO](simgetro/configs/unbox-simgetro/)
+- [开箱SimGETRO](simgetro/manual/unbox-simgetro/)
 - [连接计算机](simgetro/configs/connect-to-pc/)
 - [更新固件](simgetro/configs/update-firmware/)
 
