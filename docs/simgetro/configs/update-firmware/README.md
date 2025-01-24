@@ -29,3 +29,11 @@
 15. 修改segatools.ini，aime下的enable配置为0
 16. 修改设备的COM端口号为对应端口号
 17. 进入游戏，重新校正摇杆
+
+## 开发版固件
+
+处于开发状态中的固件您暂时只能通过自行下载源代码并编译的方式取得，您可以参考以下两个项目来操作。
+
+[SimGEKI固件主仓库](https://github.com/SimDevices-Project/SimGEKI)
+
+[SimGEKI-IAP程序仓库](https://github.com/SimDevices-Project/SimGEKI-IAP)
