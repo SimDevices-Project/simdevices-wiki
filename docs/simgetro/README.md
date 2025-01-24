@@ -2,7 +2,7 @@
 
 本页为您提供 SimGETRO 相关产品信息。
 
-![SimGETRO图像](./imgs/simgetro-img0.png)
+![SimGETRO图像](./imgs/simgetro-img0.png ':size=512')
 
 ## 快速入门
 
