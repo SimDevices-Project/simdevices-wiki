@@ -2,6 +2,8 @@
 
 本页为您提供 SimGETRO 相关产品信息。
 
+![SimGETRO图像](./imgs/simgetro-img0.png)
+
 ## 快速入门
 
 ### SimGETRO 产品介绍
