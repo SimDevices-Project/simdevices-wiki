@@ -12,6 +12,7 @@
 
 - [SimGETRO 简介](simgetro/manual/intro-simgetro/)
 - [随附配件说明](simgetro/manual/accessories-simgetro/)
+- [线下体验](simgetro/manual/where-to-play/)
 
 ### 基本配置
 
@@ -29,9 +30,9 @@
 
 ?> _TODO_IN_PROGRESS_
 
+- [常见轻微故障排查](simgetro/troubleshooting/faq/)
 - 摇杆反馈数值不正常
 - 侧键无响应
-- 音频接口声音异常
 
 ## 设备维护
 
