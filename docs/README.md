@@ -26,6 +26,7 @@
 ### 街机风格游戏控制器
 
 - [SimGETRO](simgetro/)
+- [SimGEKI 2](simgeki2/)
 
 ### SimDevices软件
 
