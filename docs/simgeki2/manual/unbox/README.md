@@ -1,4 +1,4 @@
-# SimGETRO 开箱及组装
+# SimGEKI 2 开箱及组装
 
 ## 配件列表
 

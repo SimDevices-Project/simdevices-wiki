@@ -14,8 +14,8 @@
 
 ### 基本配置
 
-- [开箱和组装](simgetro/manual/unbox/)
-- [连接计算机](simgetro/configs/connect-to-pc/)
+- [开箱和组装](simgeki2/manual/unbox/)
+- [连接计算机](simgeki2/configs/connect-to-pc/)
 
 ### 其他配置
 
