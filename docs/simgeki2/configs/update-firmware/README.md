@@ -4,7 +4,7 @@
 
 ## 在线更新
 
-请访问[SimGEKI WebControl](https://simdevices-project.github.io/SimGEKI-WebControl/)然后遵循以下步骤进行更新
+请访问[SimGEKI WebControl](https://simdevices.bysb.net/SimGEKI-WebControl/)然后遵循以下步骤进行更新
 
 ### 烧入固件
 

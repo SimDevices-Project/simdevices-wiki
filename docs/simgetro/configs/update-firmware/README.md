@@ -2,6 +2,10 @@
 
 遵循以下步骤，可以为您的SimGETRO更新固件
 
+## 在线更新
+
+请访问[SimGEKI WebControl](https://simdevices.bysb.net/SimGEKI-WebControl/)然后遵循以下步骤进行更新
+
 ### 烧入固件
 
 首先，请根据以下步骤将固件烧入到您的控制器中
