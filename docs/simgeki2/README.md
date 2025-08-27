@@ -10,7 +10,7 @@
 
 - [SimGEKI 2 简介](simgeki2/manual/intro/)
 - [随附配件说明](simgeki2/manual/accessorie/)
-- [线下体验](simgeki2/manual/where-to-play/)
+<!-- - [线下体验](simgeki2/manual/where-to-play/) -->
 
 ### 基本配置
 

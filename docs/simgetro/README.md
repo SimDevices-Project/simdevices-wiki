@@ -12,7 +12,7 @@
 
 - [SimGETRO 简介](simgetro/manual/intro-simgetro/)
 - [随附配件说明](simgetro/manual/accessories-simgetro/)
-- [线下体验](simgetro/manual/where-to-play/)
+<!-- - [线下体验](simgetro/manual/where-to-play/) -->
 
 ### 基本配置
 
