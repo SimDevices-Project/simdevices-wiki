@@ -66,5 +66,5 @@
 
 ### オンゲキ
 
-- [连接到「オンゲキ」](simgetro/configs/game-ongeki/)
+- [连接到「オンゲキ」](simgeki2/configs/game-ongeki/)
 - 常见问题
