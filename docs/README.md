@@ -31,7 +31,7 @@
 ### SimDevices软件
 
 - [SimPad 设置工具](control_pannel/)
-- SimDevices 网页设置工具
+- [SimGEKI 在线工具](simgeki_web_control/)
 
 ## 贡献
 

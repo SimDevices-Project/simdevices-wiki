@@ -11,3 +11,4 @@
 - 软件
 
   - [SimPad 设置工具](/control_pannel/)
+  - [SimGEKI 在线工具](/simgeki_web_control/)
