@@ -4,6 +4,7 @@
 
 SimGEKI WebControl 是适用于 SimGETRO/SimGEKI 系列产品的基于 Web 的在线设备固件管理与配置工具。为相关用户提供了基本的工作模式切换、摇杆校准、输入和读卡器测试以及固件管理功能。
 
+- [在线使用](https://simdevices.bysb.net/SimGEKI-WebControl/)
 - [GitHub仓库地址](https://github.com/SimDevices-Project/SimGEKI-WebControl)
 
 > 工具大部分使用 AI 工具进行开发，可能存在大量 BUG 或问题，欢迎前往 GitHub 提出 Issue。
