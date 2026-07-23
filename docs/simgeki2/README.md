@@ -10,12 +10,12 @@
 
 - [SimGEKI 2 简介](simgeki2/manual/intro/)
 - [随附配件说明](simgeki2/manual/accessories/)
-<!-- - [线下体验](simgeki2/manual/where-to-play/) -->
 
 ### 基本配置
 
 - [开箱和组装](simgeki2/manual/unbox/)
 - [连接计算机](simgeki2/configs/connect-to-pc/)
+- [在线配置工具](/simgeki_web_control/)
 
 ### 其他配置
 

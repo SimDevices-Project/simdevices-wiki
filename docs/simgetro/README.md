@@ -18,6 +18,7 @@
 
 - [开箱SimGETRO](simgetro/manual/unbox-simgetro/)
 - [连接计算机](simgetro/configs/connect-to-pc/)
+- [在线配置工具](/simgeki_web_control/)
 
 ### 其他配置
 
