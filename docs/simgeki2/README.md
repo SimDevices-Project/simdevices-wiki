@@ -2,6 +2,8 @@
 
 本页为您提供 SimGEKI 2 相关产品信息。
 
+![simgeki2banner](./imgs/simgeki2.png ':size=512')
+
 ## 快速入门
 
 参照快速入门，您可以简单安装并配置您的设备并迅速开始使用。
