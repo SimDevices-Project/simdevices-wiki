@@ -52,7 +52,7 @@
 
 ### 按钮
 
-- 更换微动
+- [更换微动](simgeki2/buttons/replaceswitch)
 - 更换按钮
 - 更换按钮弹簧
 
