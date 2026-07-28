@@ -28,7 +28,7 @@
 
 ?> _TODO_IN_PROGRESS_
 
-- [常见轻微故障排查](simgeki2/troubleshooting/faq/)
+- [常见轻微故障排查](simgeki2/troubleshooting/faq)
 - 摇杆反馈数值不正常
 - 侧键无响应
 
