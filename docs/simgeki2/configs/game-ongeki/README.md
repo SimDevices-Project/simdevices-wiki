@@ -15,7 +15,7 @@
 
 mu3io-simgeki 是一个适配了专用API的输入检测DLL库，其提供了一些指定的接口用于便于其他应用程序连接到SimGEKI系列产品并读取和配置输入输出信息。其头文件定义符合`segatools`相关要求。
 
-- [mu3io-simgeki 源代码](https://simdevices.bysb.net/SimGEKI-WebControl/)
+- [mu3io-simgeki 源代码](https://github.com/SimDevices-Project/mu3io-simgeki)
 
 ### 编辑和修改配置文件
 
@@ -115,5 +115,5 @@ enable=0
 5. 选中`終了`选项，完成摇杆配置
 6. 选中`保存する`，保存您的摇杆校准信息
 7. 在测试菜单中选中`終了`选项，退出测试菜单
-8. 
+
 通过以上操作，您应该可以在游戏中正常使用 SimGEKI 进行游玩了，祝您游戏愉快。
