@@ -2,6 +2,8 @@
 
 本页为您提供 SimGEKI 2 相关产品信息。
 
+> 可以在QQ搜索群号 811740405 进行交流与询问。
+
 ![simgeki2banner](./imgs/simgeki2.png ':size=512')
 
 ## 快速入门
