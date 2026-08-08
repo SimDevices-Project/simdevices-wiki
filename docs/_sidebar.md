@@ -2,6 +2,10 @@
 
   - [首页](/)
 
+- 商店
+  
+  - [淘宝官方店铺](https://simdevices.taobao.com/)
+
 - 设备
 
   - [SimPad 键盘](/simpad/)
