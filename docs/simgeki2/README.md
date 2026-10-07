@@ -62,7 +62,7 @@
 
 ### 摇杆
 
-- 更换摇杆帽
+- [更换摇杆帽](simgeki2/maintenance/joystick/replacecap)
 
 ## 连接到游戏
 
