@@ -46,7 +46,7 @@
 
 ### 侧键
 
-- 润滑弹片
+- [润滑弹片](simgeki2/maintenance/sidekeys/lubricatespring)
 
 ## 零件更换
 
