@@ -57,7 +57,7 @@
 ### 按钮
 
 - [更换微动](simgeki2/maintenance/buttons/replaceswitch)
-- 更换按钮
+- [更换按钮](simgeki2/maintenance/buttons/replacebutton)
 - 更换按钮弹簧
 
 ### 摇杆
