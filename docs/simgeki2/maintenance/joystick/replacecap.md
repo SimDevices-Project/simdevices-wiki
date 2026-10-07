@@ -8,11 +8,11 @@
 
 1. 拆下摇杆帽上的五颗螺丝：两侧各两颗，另有一颗连接两块塑料的螺丝。
 
-![方法一：拆下五颗螺丝](./imgs/replacecap/joystick-cap-a1-five-screws.png ':size=256')
+![方法一：拆下五颗螺丝](./imgs/replacecap/joystick-cap-a1-five-screws.png?v=3e4003d ':size=256')
 
 2. 将两块塑料分别向两端移开，取下旧摇杆帽。
 
-![方法一：两块塑料分别从两端移除](./imgs/replacecap/joystick-cap-a2-separate-halves.png ':size=256')
+![方法一：两块塑料分别从两端移除](./imgs/replacecap/joystick-cap-a2-separate-halves.png?v=3e4003d ':size=256')
 
 3. 将新摇杆帽的两块塑料按原位置合拢，对齐孔位，按拆卸的逆序装回五颗螺丝。
 
@@ -20,10 +20,10 @@
 
 1. 拆下摇杆帽两侧的四颗螺丝，每侧两颗。保留连接两块塑料的那颗螺丝。
 
-![方法二：拆下两侧共四颗螺丝](./imgs/replacecap/joystick-cap-b1-four-screws.png ':size=256')
+![方法二：拆下两侧共四颗螺丝](./imgs/replacecap/joystick-cap-b1-four-screws.png?v=3e4003d ':size=256')
 
 2. 保持两块塑料合在一起，将整个摇杆帽向上提起，从顶部取下。
 
-![方法二：整个摇杆帽从顶部移除](./imgs/replacecap/joystick-cap-b2-lift-cap.png ':size=256')
+![方法二：整个摇杆帽从顶部移除](./imgs/replacecap/joystick-cap-b2-lift-cap.png?v=3e4003d ':size=256')
 
 3. 将新摇杆帽从顶部套回原位，对齐两侧孔位，按拆卸的逆序装回四颗螺丝。

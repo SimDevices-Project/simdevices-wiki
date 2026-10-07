@@ -26,19 +26,19 @@
 
 6. 托住按钮主体，从背面逆时针旋下固定螺母，保管好螺母。
 
-   ![逆时针旋下按钮固定螺母](./imgs/replacebutton/button-01-unscrew-nut.png ':size=256')
+   ![逆时针旋下按钮固定螺母](./imgs/replacebutton/button-01-unscrew-nut.png?v=3e4003d ':size=256')
 
 7. 从面板正面取出旧按钮。图示为设备背面视角，按钮从面板另一侧沿轴线移出。
 
-   ![从面板正面取出旧按钮](./imgs/replacebutton/button-02-remove-button.png ':size=256')
+   ![从面板正面取出旧按钮](./imgs/replacebutton/button-02-remove-button.png?v=3e4003d ':size=256')
 
 8. 将新按钮对齐原孔位，从面板正面沿轴线放入，使按钮落座。
 
-   ![从面板正面装入新按钮](./imgs/replacebutton/button-03-insert-button.png ':size=256')
+   ![从面板正面装入新按钮](./imgs/replacebutton/button-03-insert-button.png?v=3e4003d ':size=256')
 
 9. 保持按钮位置，从背面装回固定螺母并顺时针拧紧。
 
-   ![顺时针拧回按钮固定螺母](./imgs/replacebutton/button-04-refit-nut.png ':size=256')
+   ![顺时针拧回按钮固定螺母](./imgs/replacebutton/button-04-refit-nut.png?v=3e4003d ':size=256')
 
 10. 将保留的微动接回线缆插头，沿轴线放入新按钮。
 
