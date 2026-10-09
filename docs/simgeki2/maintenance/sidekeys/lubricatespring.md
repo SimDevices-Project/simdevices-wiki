@@ -18,10 +18,10 @@
 
 4. 移除侧键本身。
 
-   ![在侧键整体上取下按键，基体和弹片仍保留](./imgs/lubricatespring/4.png ':size=256')
+   ![在侧键整体上取下按键，基体和弹片仍保留](./imgs/lubricatespring/4.png?v=pcb-295061637254 ':size=256')
 
 5. 向弹片上端与侧键接触的一面涂抹润滑油，涂抹范围约 1 cm 高。
 
    放大框对应整体图中标出的弹片上端。
 
-   ![整体定位与局部放大：只涂弹片上端约10mm高的接触区](./imgs/lubricatespring/5.png ':size=256')
+   ![整体定位与局部放大：只涂弹片上端约10mm高的接触区](./imgs/lubricatespring/5.png?v=pcb-295061637254 ':size=256')
